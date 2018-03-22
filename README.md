@@ -2,7 +2,8 @@
 Especialmente para la resolución de los ejercicios solicitados en las entrevistas como desarrollador.
 
 Autor: Daniela Romero
-E-mail: danieladayro@gmail.com
+
+Correo: danieladayro@gmail.com
 
 Ciudad Autonoma de Buenos Aires, Argentina.
 
