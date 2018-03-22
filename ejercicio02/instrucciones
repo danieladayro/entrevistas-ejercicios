@@ -13,3 +13,19 @@ empleado trabaja bajo la supervisión de otro empleado
 2. - Realizar una query donde dado el ID de un empleado poder obtener los
 empleados bajo su supervisión
 
+
+*********************************************************************
+Ejericio desarrollado con el Framework Laravel mediante Crudbooster:
+   
+   - laragon version 3.17, incluye: Apache 2.4.7, PHP 7.1.7 y MySQL/MariaBD 10.2.11 win 64
+   
+   - Base de datos en MySQL: ejercicioempleado.sql
+
+    ********Base de datos: ejercicioempleado
+    ********Usuario: root
+    ********Clave: 123
+
+   - Acceder por: -> localhost/ejercicio02/public/admin/
+
+	*****Usuario: danieladayro@gmail.com
+	*****Clave: 123
